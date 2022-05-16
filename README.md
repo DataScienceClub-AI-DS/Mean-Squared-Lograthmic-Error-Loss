@@ -5,7 +5,7 @@ Mean squared logarithmic error (MSLE) can be interpreted as a measure of the rat
 
 ## Formula:
 
-![]()
+![](https://github.com/DataScienceClub-AI-DS/Loss-Functions-Machine-Learning/blob/main/img/msle.png)
 
 ## Task:
   > The Salary_Data CSV file contains *salary and predicted salary column*, find the error with mean squared logarthmic error!... 
